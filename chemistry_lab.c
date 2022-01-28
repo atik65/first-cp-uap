@@ -4,6 +4,7 @@ int main()
 {
 
     int item1, item2;
+    // input
     scanf("%d %d", &item1, &item2);
     if (0 < item1 && item2 == 0)
     {

@@ -3,6 +3,8 @@
 int main()
 {
     int side1, side2, side3, side4, side5, side6;
+
+    // input
     scanf("%d %d %d", &side1, &side2, &side3);
     side4 = 7 - side1;
     side5 = 7 - side2;

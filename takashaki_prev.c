@@ -5,8 +5,8 @@ int main()
 {
     char s[100], s1[100];
 
-    scanf("%s", &s);
-    scanf("%s", &s1);
+    // input
+    scanf("%s %s", &s, &s1);
 
     int len = strlen(s);
 

@@ -8,6 +8,7 @@ int main()
     double result;
     base = 32;
 
+    // input
     scanf("%d %d", &num1, &num2);
 
     if (num2 == num1)
