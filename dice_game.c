@@ -1,3 +1,5 @@
+// code by atik
+
 #include <stdio.h>
 
 int main()

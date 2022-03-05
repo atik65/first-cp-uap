@@ -3,7 +3,7 @@
 int main()
 {
 
-    // helloooooow
+    // code by atik
     printf("Hello World\n");
     return 0;
 }
